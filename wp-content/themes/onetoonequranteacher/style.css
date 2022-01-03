@@ -1,0 +1,60 @@
+/* 
+Theme Name: Ummah - Islamic Center Theme 
+Theme URI: https://onetoonequranteacher.com/
+Description: Ummah is a Fully Responsive Wordpress theme. This is highly customizable – looks awesome on tablets and mobile devices. you can create great website layout based on Bootstrap 4.
+
+Author: Ummah Team 
+Author URI: https://onetoonequranteacher.com/
+Version: 1.0
+
+Copyright (C) 2011-2015 Brag Interactive 
+License: GNU General Public License, version 3 (GPLv3)
+License URI: license.txt 
+	
+
+/* =Horizontal Rule
+-------------------------------------------------------------- */
+/*---------------------------
+  Fonts
+----------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Rubik:300,400,500,700&amp;display=swap");
+
+@font-face {
+    font-family: "Conv_Now-Bold";
+    src: url("fonts/text-fonts/Now-Bold.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url(fonts/text-fonts/now-regular.otf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url(fonts/text-fonts/now-medium.otf) format("truetype");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url(fonts/text-fonts/now-light.otf) format("truetype");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Now";
+    src: url(fonts/text-fonts/now-thin.otf) format("truetype");
+    font-weight: 200;
+    font-style: normal;
+}
+
+/** End Pricing Table */
+.navbar-default .navbar-nav > .active > a {
+    background: transparent !important;
+}
